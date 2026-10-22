@@ -1,0 +1,16 @@
+# Web application
+streamlit
+
+# LangChain and integrations
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+langchain-groq
+
+# Vector store and PDF parsing
+faiss-cpu
+pdfplumber
+
+# Environment variable management
+python-dotenv
